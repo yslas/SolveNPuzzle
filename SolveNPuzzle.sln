@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveNPuzzle", "SolveNPuzzle\SolveNPuzzle.csproj", "{641A2FB9-D43A-49B5-91C2-8C0662BFC285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641A2FB9-D43A-49B5-91C2-8C0662BFC285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641A2FB9-D43A-49B5-91C2-8C0662BFC285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641A2FB9-D43A-49B5-91C2-8C0662BFC285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641A2FB9-D43A-49B5-91C2-8C0662BFC285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1DED336-5B2E-41D5-BCD1-F05980C67E71}
+	EndGlobalSection
+EndGlobal
